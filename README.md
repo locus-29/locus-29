@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me : Email
 
-locus-29/locus-29 is a ✨ special ✨ repository because its `README.md` (ocus-29-Student-Grade-Record-and-Calculation-System) appears in my GitHub profile.
+locus-29 is a ✨ special ✨ repository because its `README.md` (ocus-29-Student-Grade-Record-and-Calculation-System) appears in my GitHub profile.
 You can click the Preview link to take a look at your changes.
 
